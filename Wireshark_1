@@ -1,0 +1,67 @@
+Lab: Wireshark for Absolute Beginners - Part 1
+
+Step-by-Step Wireshark Lab for Absolute Beginners - Part 1
+
+Objective: The objective of this lab is to introduce absolute beginners to Wireshark, a popular network protocol analyzer, and demonstrate basic packet capturing and filtering techniques for common protocols including HTTP, HTTPS, DNS, SSH, FTP, and ICMP.
+
+Prerequisites:
+
+    Installation of Wireshark on a computer or virtual machine.
+
+Materials:
+
+    Computer or virtual machine with Wireshark installed.
+
+Steps:
+
+Step 1: Introduction to Wireshark
+
+    Launch Wireshark from the desktop or applications menu.
+    Explain the Wireshark interface including the menu bar, capture options, packet list pane, packet details pane, and display filter toolbar.
+
+Step 2: Selecting Network Interface
+
+    Click on the interface dropdown menu in Wireshark.
+    Select the network interface to capture packets from (e.g., Ethernet, Wi-Fi).
+
+Step 3: Starting Packet Capture
+
+    Click on the "Start" button (green shark fin icon) in Wireshark to start capturing packets on the selected interface.
+    Observe the packet list pane as packets are captured in real-time.
+
+Step 4: Filtering HTTP Traffic
+
+    In the display filter toolbar, type http and press Enter.
+    Observe only HTTP traffic displayed in the packet list pane.
+
+Step 5: Filtering HTTPS Traffic
+
+    In the display filter toolbar, type ssl and press Enter.
+    Observe HTTPS traffic displayed in the packet list pane.
+
+Step 6: Filtering DNS Traffic
+
+    In the display filter toolbar, type dns and press Enter.
+    Observe DNS traffic displayed in the packet list pane.
+
+Step 7: Filtering SSH Traffic
+
+    In the display filter toolbar, type ssh and press Enter.
+    Observe SSH traffic displayed in the packet list pane.
+
+Step 8: Filtering FTP Traffic
+
+    In the display filter toolbar, type ftp and press Enter.
+    Observe FTP traffic displayed in the packet list pane.
+
+Step 9: Filtering ICMP Traffic
+
+    In the display filter toolbar, type icmp and press Enter.
+    Observe ICMP (Ping) traffic displayed in the packet list pane.
+
+Step 10: Analyzing Packet Details
+
+    Select a packet of interest in the packet list pane.
+    Explore the packet details pane to view information such as source/destination IP addresses, ports, protocols, and payload data.
+
+Conclusion: In this lab, beginners were introduced to Wireshark and basic packet capturing and filtering techniques for common protocols including HTTP, HTTPS, DNS, SSH, FTP, and ICMP. By following these steps, beginners developed essential skills in using Wireshark for network traffic analysis.
