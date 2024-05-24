@@ -1,8 +1,6 @@
 Active Directory Lab w/Splunk
 
-
-
-
+https://github.com/adhoctraining/images/blob/main/Cyber%20lab1.png
 
 System requirements
 
