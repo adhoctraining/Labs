@@ -1,3 +1,11 @@
+Hardware
+Used computers are the best value:
+Dell OptiPlex 7050 (SFF) Desktop Computer i5-6500 8GB RAM 128GB SSD No OS
+
+HP EliteDesk 800 G2 Mini Desktop Intel 2.9GHz 8GB RAM 500GB HDD Win10
+
+
+
 Active Directory Lab w/Splunk
 
 https://github.com/adhoctraining/images/blob/main/Cyber%20lab1.png
