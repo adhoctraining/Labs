@@ -1,10 +1,11 @@
 Hardware
 Used computers are the best value:
 Dell OptiPlex 7050 (SFF) Desktop Computer i5-6500 8GB RAM 128GB SSD No OS
-
 HP EliteDesk 800 G2 Mini Desktop Intel 2.9GHz 8GB RAM 500GB HDD Win10
 
-
+Networking Lab
+Cisco 2960 Series PD WS-C2960PD-8TT-L Catalyst 8 Port Ethernet Switch
+Integrated Service Router 1841
 
 Active Directory Lab w/Splunk
 
