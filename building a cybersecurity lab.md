@@ -1,8 +1,19 @@
-References
+# Building a Cybersecurity Lab
+
+## References
+CEH Practical Exam Preparation Course & Training #Unofficial
+https://www.udemy.com/course/training-for-ceh-practical/?couponCode=OF52424
+  VM Requirements
+  Parrot
+  Metasploitable 2
+  DVWA on Windows
+  DVWA on Ubuntu
+  Android
+
 EJPT
 https://pjdeepakkumar.gitbook.io/ejpt
 
-POrtSwigger Labs
+PortSwigger Labs
 https://portswigger.net/web-security/all-labs
 
 ejpt 2021
@@ -11,17 +22,16 @@ https://github.com/dexter-11/eJPT_2021
 
 
 
-
-Hardware
+## Hardware
 Used computers are the best value:
 Dell OptiPlex 7050 (SFF) Desktop Computer i5-6500 8GB RAM 128GB SSD No OS
 HP EliteDesk 800 G2 Mini Desktop Intel 2.9GHz 8GB RAM 500GB HDD Win10
 
-Networking Lab
+## Networking Lab
 Cisco 2960 Series PD WS-C2960PD-8TT-L Catalyst 8 Port Ethernet Switch
 Integrated Service Router 1841
 
-Active Directory Lab w/Splunk
+## Active Directory Lab w/Splunk
 
 https://github.com/adhoctraining/images/blob/main/Cyber%20lab1.png
 
@@ -43,34 +53,6 @@ Hard disk space: 16 GB for 32-bit OS or 20 GB for 64-bit OS
 Graphics card: DirectX 9 or later with WDDM 1.0 driver
 Display: 800 x 600
 
-
-OSCP Syllabus
-
-The updated course includes 23 learning modules, which include:
-
-    General Course Introduction
-    Introduction to Cybersecurity
-    Effective Learning Strategies
-    Report Writing for Penetration Testers
-    Information Gathering
-    Vulnerability Scanning
-    Introduction to Web Applications
-    Common Web Application Attacks
-    SQL Injection Attacks
-    Client-Side Attacks
-    Location Public Exploits
-    Fixing Exploits
-    Antivirus Evasion
-    Password Attacks
-    Windows Privielge Escalation
-    Linux Privilege Escalation
-    Port Redirection and SSH Tunneling
-    Advanced Tunneling
-    The Metasploit Framework
-    Active Directory Introduction and Enumeration 
-    Attacking Active Directory Authentication
-    Lateral Movement in Active Directory 
-    Assembling the Pieces
 
 
 
