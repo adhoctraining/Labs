@@ -1,3 +1,17 @@
+References
+EJPT
+https://pjdeepakkumar.gitbook.io/ejpt
+
+POrtSwigger Labs
+https://portswigger.net/web-security/all-labs
+
+ejpt 2021
+https://github.com/dexter-11/eJPT_2021
+
+
+
+
+
 Hardware
 Used computers are the best value:
 Dell OptiPlex 7050 (SFF) Desktop Computer i5-6500 8GB RAM 128GB SSD No OS
@@ -28,3 +42,36 @@ RAM: 1 gigabyte (GB) for 32-bit or 2 GB for 64-bit
 Hard disk space: 16 GB for 32-bit OS or 20 GB for 64-bit OS
 Graphics card: DirectX 9 or later with WDDM 1.0 driver
 Display: 800 x 600
+
+
+OSCP Syllabus
+
+The updated course includes 23 learning modules, which include:
+
+    General Course Introduction
+    Introduction to Cybersecurity
+    Effective Learning Strategies
+    Report Writing for Penetration Testers
+    Information Gathering
+    Vulnerability Scanning
+    Introduction to Web Applications
+    Common Web Application Attacks
+    SQL Injection Attacks
+    Client-Side Attacks
+    Location Public Exploits
+    Fixing Exploits
+    Antivirus Evasion
+    Password Attacks
+    Windows Privielge Escalation
+    Linux Privilege Escalation
+    Port Redirection and SSH Tunneling
+    Advanced Tunneling
+    The Metasploit Framework
+    Active Directory Introduction and Enumeration 
+    Attacking Active Directory Authentication
+    Lateral Movement in Active Directory 
+    Assembling the Pieces
+
+
+
+
