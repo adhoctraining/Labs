@@ -1,3 +1,9 @@
+References
+Ethical Modules v12
+https://elhacker.info/Cursos/Certified%20Ethical%20Hacker%20CEH%20v12/
+
+
+
 # Ethical Hacking Practical v.12
 
 The topics on my exam were right out of the official V12 training material. Unlike what people suggest in the 
