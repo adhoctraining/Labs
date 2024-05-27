@@ -6,6 +6,29 @@ previous exam version I was asked to root a machine, and find / exploit vulnerab
 Wireless Networks, RATs, Malware Analysis, Vulnerability Analysis, Privilege Escalations, Packet Analysis, as well as Mobile Devices. 
 
 
+## Here are the topics we'll cover.
+    Intro to Ethical Hacking
+    Recon Techniques - Footprinting and Recon
+    Recon Techniques - Scanning
+    Recon Techniques - Enumeration
+    System Hacking Phases and Attack Techniques - Vulnerability Analysis
+    System Hacking Phases and Attack Techniques - System Hacking
+    System Hacking Phases and Attack Techniques - Malware Threats
+    Network and Perimeter Hacking - Sniffing
+    Network and Perimeter Hacking - Social Engineering
+    Network and Perimeter Hacking - Denial of Service
+    Network and Perimeter Hacking - Session Hijacking
+    Network and Perimeter Hacking - Evading Firewalls, IDS, and Honeypots
+    Web Application Hacking - Hacking Web Servers
+    Web Application Hacking - Hacking Web Applications
+    Web Application Hacking - SQL Injection
+    Wireless Network Hacking - Hacking Wireless Networks
+    Mobile Platform, IoT, and OT Hacking - Hacking Mobile Platforms
+    Mobile Platform, IoT, and OT Hacking - IoT and OT Hacking
+    Cloud Computing - Cloud Computing
+    Cryptography - Cryptography
+
+
 ## Examples Questions (There are the real issues)
     What is the IP of the Windows X machine?
     What is the version of the Linux Kernel?
@@ -40,6 +63,7 @@ Wireless Networks, RATs, Malware Analysis, Vulnerability Analysis, Privilege Esc
     PhoneSploit
     MetaSploit
     BCTextEncoder
+    Responder
     
 ### Module 03: Scanning Networks
     Lab1-Task1: Host discovery
