@@ -19,13 +19,19 @@ https://portswigger.net/web-security/all-labs
 ejpt 2021
 https://github.com/dexter-11/eJPT_2021
 
-
+Books
+https://github.com/InspectorDidi/Hacking-Books/
 
 
 ## Hardware
 Used computers are the best value:
 Dell OptiPlex 7050 (SFF) Desktop Computer i5-6500 8GB RAM 128GB SSD No OS
 HP EliteDesk 800 G2 Mini Desktop Intel 2.9GHz 8GB RAM 500GB HDD Win10
+Dell OptiPlex 7040 SFF i5-6500@3.20GHz 4GB DDR4 RAM No HDD No OS +SL870
+Dell OptiPlex 7040 SFF Intel Core i5-6500 16GB RAM 128GB SSD Window 11 Pro
+Dell OptiPlex 3020 SFF - i5-4590 3.30GHz 4GB RAM 256GB SSD Windows 10
+Dell OptiPlex 3020 SFF PC Core i5-4590 3.30GHz 8GB RAM 500GB HDD Windows 10 Pro $45 (w/shipping)
+Dell OptiPlex 7040M Micro Core i5-6500T 2.5GHz 16GB RAM 256GB SSD Win 11 Pro $115
 
 ## Networking Lab
 Cisco 2960 Series PD WS-C2960PD-8TT-L Catalyst 8 Port Ethernet Switch
